@@ -1,0 +1,8 @@
+ipykernel
+datasets
+sentence-transformers
+faiss-cpu
+plotly
+scikit-learn
+pandas
+huggingface_hub[hf_xet]
